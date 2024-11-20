@@ -1,4 +1,5 @@
 This command connect to a VPN using openvpn.
+This repo is required : https://github.com/jonathanio/update-systemd-resolved
 ```
 #!/bin/bash
 
